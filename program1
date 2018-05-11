@@ -1,0 +1,5 @@
+invalue=input("Enter your value")
+if type(invalue) == string:
+	print "You have entered string"
+else:
+	print "you have entered number"
